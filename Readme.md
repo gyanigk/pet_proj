@@ -21,3 +21,9 @@ displays would be awesome. Look into this and brainstorm this bish.
 I should study neuroscience, hci, electronics fs, even graphics cs subjects, optic physics, ar/vr/mr technologies.
 
 
+To  explore,
+There can be variety of haptics designs or instead of focusing on small devices, more multiple sensing haptics would 
+be great to look into. Materials have so much properties which can be exploits via electonics to use such as a sensor.
+
+
+
