@@ -17,13 +17,23 @@ displays which can create charged particles or some sensor pick up and it has to
 Look inside more ideas of creating the 3D displays or some sensor to work with projections. even the smallest holographic
 displays would be awesome. Look into this and brainstorm this bish. 
 
-
-I should study neuroscience, hci, electronics fs, even graphics cs subjects, optic physics, ar/vr/mr technologies.
-
+I should study neuroscience, hci, electronics fs, even graphics cs subjects, optic physics, ar/vr/mr technologies, robotics stuff.
 
 To  explore,
 There can be variety of haptics designs or instead of focusing on small devices, more multiple sensing haptics would 
 be great to look into. Materials have so much properties which can be exploits via electonics to use such as a sensor.
 
+[New task]
+A simulation software for 3D visualization of any 3D object
+    - requires knowledge of Computer Graphics topics 
+    - idea is that it loads a file, shows the render of the object in a interative space just rotation and stuff
+    - now the next idea from this will be creation of hologram from that 2d screen representation
+      - if the entire 3d object is shown as 1D image with particular coloring/grading to provide the depth information 
+    - next would be creating a hardware to achieve this
+      -  there are multiple ideas as to how to achieve this but requires alot of resources
+      -  use a mouse trackpad for playing with the hologram in the new hardware, find new external ways of interation as HCI if its a closed box hologram like telerobotics stuff 
+      -  new wireless actuators or something 
 
 
+[Old tasks]
+NaN
